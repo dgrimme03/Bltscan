@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # Function to convert RSSI (Received Signal Strength Indication) to approximate distance
 rssi_to_distance() {
     local rssi=$1
